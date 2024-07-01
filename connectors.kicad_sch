@@ -445,7 +445,7 @@
   (symbol (lib_id "Connector:Conn_01x09_Pin") (at 88.9 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5cefeca8-7500-4388-893c-70d01833bfec)
-    (property "Reference" "J3" (at 89.535 81.28 0)
+    (property "Reference" "J2" (at 89.535 81.28 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x09_Pin" (at 89.535 83.82 0)
@@ -472,7 +472,7 @@
     (instances
       (project "MCUdatalogger_V1"
         (path "/b93563e1-8fe5-4271-839f-45f8ce901c22/0cf192c1-f9bc-4a5d-87a5-6c04f2d03566"
-          (reference "J3") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -545,7 +545,7 @@
   (symbol (lib_id "Connector:Conn_01x04_Pin") (at 107.95 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df26947a-8b94-4651-9c0b-af968c106c34)
-    (property "Reference" "J2" (at 108.585 60.96 0)
+    (property "Reference" "J3" (at 108.585 60.96 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x04_Pin" (at 108.585 63.5 0)
@@ -567,7 +567,7 @@
     (instances
       (project "MCUdatalogger_V1"
         (path "/b93563e1-8fe5-4271-839f-45f8ce901c22/0cf192c1-f9bc-4a5d-87a5-6c04f2d03566"
-          (reference "J2") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
